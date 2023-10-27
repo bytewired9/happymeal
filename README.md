@@ -1,3 +1,4 @@
+<div align=center>
 # Happy Meal - McDonald's Customer Satisfaction Survey Automator 🍔
 
 **🚫 For educational purposes only. Please do not misuse this tool! 🚫**
@@ -6,6 +7,16 @@
            alt="Happymeal logo"
              style="height: 300px; width: auto;" />
 
+[![Button Icon]][Link]
+
+[Button Icon]: https://img.shields.io/badge/Installation-f44336?style=for-the-badge&logoColor=white&logo=DocuSign
+
+[Link]: https://github.com/ForgedCore8/happymeal/releases/latest/download/HappyMeal.exe
+
+![GitHub all releases](https://img.shields.io/github/downloads/ForgedCore8/happymeal/total) ![GitHub](https://img.shields.io/github/license/ForgedCore8/happymeal) [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/ForgedCore8/happymeal)
+
+
+</div>
 ## 📜 Description
 
 `Happy Meal` is an educational project developed to understand and explore the automation possibilities around McDonald's customer satisfaction survey system. While the tool is functional, it should not be used to manipulate the actual survey system. Misusing it may have legal implications and can go against McDonald's terms of service. We highly discourage any misuse and will not be held responsible for the consequences.
