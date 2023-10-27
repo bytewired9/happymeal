@@ -42,27 +42,15 @@ Licensed under the [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## 🛠️ Installation & Usage
 
-1. Clone the repository:
-```
-git clone https://github.com/ForgedCore8/happymeal.git
-```
+1. **Download the Executable:**
+   - Navigate to the [Releases](https://github.com/ForgedCore8/happymeal/releases) section of the `Happy Meal` GitHub repository.
+   - Download the latest available executable suitable for your operating system.
 
-2. Navigate to the directory:
-```
-cd happy-meal
-```
+2. **Run the Application:**
+   - Locate the downloaded executable on your system.
+   - Double-click on the executable to run the "Happy Meal" application.
 
-3. Install the required dependencies:
-```
-pip install -r requirements.txt
-```
-
-4. Run the script:
-```
-python main.py
-```
-
-Please remember to use responsibly and ethically!
+*Note: Depending on your system settings, you might need to grant necessary permissions for the executable to run. Ensure you trust the source (this repository) before running any executable.*
 
 ## 🤝 Contributing
 
