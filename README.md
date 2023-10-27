@@ -2,7 +2,7 @@
 
 **🚫 For educational purposes only. Please do not misuse this tool! 🚫**
 
-![Happy Meal Logo](Happy_meal.png)
+![Happy Meal Logo](Happy%20meal.png)
 
 ## 📜 Description
 
