@@ -2,7 +2,9 @@
 
 **🚫 For educational purposes only. Please do not misuse this tool! 🚫**
 
-![Happy Meal Logo](Happy%20meal.png)
+<img src="Happy_meal.png"
+           alt="Happymeal logo"
+             style="height: 300px; width: auto;" />
 
 ## 📜 Description
 
