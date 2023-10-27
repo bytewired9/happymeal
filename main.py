@@ -23,7 +23,7 @@ from colorama import Fore, Back, Style, init
 
 init(autoreset=True)
 cwd = os.getcwd()
-version = "1.0"
+version = "1.0.0"
 GITHUB_URL = "https://raw.githubusercontent.com/ForgedCore8/happymeal/main/reviews.json"
 
 global completed_surveys, surveys_target
