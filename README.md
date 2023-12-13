@@ -18,6 +18,7 @@
 
 
 </div>
+
 ## 📜 Description
 
 `Happy Meal` is an educational project developed to understand and explore the automation possibilities around McDonald's customer satisfaction survey system. While the tool is functional, it should not be used to manipulate the actual survey system. Misusing it may have legal implications and can go against McDonald's terms of service. We highly discourage any misuse and will not be held responsible for the consequences.
