@@ -35,7 +35,6 @@
 
 1. **False Freebies:** Do not use this tool to falsely obtain free food or benefits.
 2. **Manipulating Scores:** It's strictly prohibited to artificially inflate satisfaction scores using this tool.
-3. **Patent and Trademark Use:** Users are not granted any rights regarding the patents or trademarks associated with "Happy Meal". Misuse or unauthorized use of these intellectual properties is strictly prohibited.
 
 ## 📜 License
 
